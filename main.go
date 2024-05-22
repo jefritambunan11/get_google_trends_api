@@ -38,7 +38,7 @@ func main() {
 	if err != nil {
 		fmt.Println("error:", err)
 	}
-
+ 
 	fmt.Println("Kita akan mengambil data API dari Google Trends ")
 	fmt.Println("---------------------------------------------------")
 
