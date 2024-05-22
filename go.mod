@@ -1,3 +1,3 @@
-module github.com/akhil/google-trends
+module github.com/jefritambunan11/get_google_trends_api
 
-go 1.16
+go 1.21
